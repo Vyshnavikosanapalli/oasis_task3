@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tab{
+    text-align:left;
+    margin-bottom: 10%;
+    background-color:lavender;
+    padding:5%;
+    border-radius: 14px;
+}
+input{
+    height: 35px;
+    text-align: left;
+    border: none;
+    color:black;
+    font-size: .5cm;
+}
+#inps{
+    box-shadow:blue;
+}
+select{
+    height: 35px;
+    text-align:left;
+    border: none;
+    color:black;
+    border-radius: 20px;
+    width: 80%;
+}
+caption{
+    padding: 15px;
+}
+p{
+    color:black;
+}
+div{
+    margin-top: 10%;
+}
